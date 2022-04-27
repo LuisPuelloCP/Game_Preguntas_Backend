@@ -1,11 +1,11 @@
 # Game_Preguntas_Backend
 
 # Paso 1: Crear y llenar base de datos
-Para crear y llenar previamente la base de datos, deberá tener instalado MySQL y MySQL Workbench en su computadora.
-Ahora, el servidor de MySQL se debe estar ejecuntado el puerto 3306 para que la aplicación pueda ejecutarse correctamente.
-Si el servidor cuenta con un usuario y contraseña, deberá verficar que estos coincidan con el usuario y contraseña del archivo db.js que se encuentra en el proyecto.
-Luego que haya ingresado al servidor, abra el script all.sql que se encuentra en src/models y lo ejecuta en MySQL Workbench.
-Esto generará la estructura de la base de datos con todos sus datos.
+1. Para crear y llenar previamente la base de datos, deberá tener instalado MySQL y MySQL Workbench en su computadora.
+2. Ahora, el servidor de MySQL se debe estar ejecuntado el puerto 3306 para que la aplicación pueda ejecutarse correctamente.
+3. Si el servidor cuenta con un usuario y contraseña, deberá verficar que estos coincidan con el usuario y contraseña del archivo db.js que se encuentra en el proyecto.
+4. Luego que haya ingresado al servidor, abra el script all.sql que se encuentra en src/models y lo ejecuta en MySQL Workbench.
+5. Esto generará la estructura de la base de datos con todos sus datos.
 
 # Paso 2: Preparar el proyecto para la ejecucion
 Para preparar el proyecto, solo es necesario:
