@@ -1,5 +1,3 @@
-# Game_Preguntas_Backend
-
 # App
 
 Este proyecto fue generado con NodeJS version 16.14.0. <br>
