@@ -1,5 +1,10 @@
 # Game_Preguntas_Backend
 
+# App
+
+Este proyecto fue generado con NodeJS version 16.14.0. <br>
+Si no cuenta con NodeJS, puede instalarlo desde el siguiente link: https://nodejs.org/en/
+
 ## Paso 1: Crear y llenar base de datos
 1. Para crear y llenar previamente la base de datos, deberá tener instalado MySQL y MySQL Workbench en su computadora.
 2. Ahora, el servidor de MySQL se debe estar ejecuntado el puerto 3306 para que la aplicación pueda ejecutarse correctamente.
